@@ -25,3 +25,8 @@ def func():
 #   ^^^^ 
 # No return statement; the return value is always None.
 
+# Summary
+# Functions describe interactions between objects.
+# Every function consists of a name (except for lambdas), signature (parameters), and the underlying code.
+# The underlying code determines what the function does with the objects passed through parameters
+# as well as provides the return value.
